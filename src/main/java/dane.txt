@@ -1,0 +1,10 @@
+Adam,Sikora,1991-01-21
+Aleksander,Kowalska,1992-07-21,232326789
+Karolina,Dąbrowska,1993-11-16,3236343998
+Julia,Żukowska,1994-12-10,3236454998
+Oliwia,Kwiatkowska,1995-03-19
+Marcin,Nowak,1990-10-14,333667888
+Maciej,Zieliński,1996-08-01,323342998
+Antoni,Urbaniak,1997-02-16,3236179435
+Anna,Wiśniewska,1998-02-15
+Pawel,Jasiński,1999-09-11,3213456623
